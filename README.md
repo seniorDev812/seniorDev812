@@ -19,6 +19,7 @@
 
 
 ### Expertise
+- **Expert Skills**: Mq4, Mq5, Meta Trader Expert.
 - **Passionate About**: Distributed automated web systems, databases, APIs, caching, and UI/UX design.
 - **Proficient In**: Frameworks and languages like React, Express, PHP, HTML, CSS, and JavaScript.
 - **Experienced With**: AWS, Node.js, ES6, CodeIgniter, NLP, Linux servers, and Apache servers.
