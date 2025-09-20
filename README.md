@@ -1,7 +1,6 @@
 ![Github](https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg)
 <div style="background-color: #0d1117;">
 
-kidding?
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=58a6ff&random=false&width=650&height=55&lines=Hello+There+!;I'm+HOPE+LESS;It's+Nice+To+Meet+You+!">
